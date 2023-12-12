@@ -1,5 +1,5 @@
 {
-    "name": "softcommerce/mage2plenty-os",
+    "name": "softcommerce/metapackage-test",
     "description": "Bundle package of PlentyMarkets connector for Magento Open Source.",
     "type": "metapackage",
     "license": "EULA",
